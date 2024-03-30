@@ -142,6 +142,11 @@ Suponga que en su navegador hace clic en un vínculo a una página web. La direc
 
 ### P8
 
+Continuando con el Problema P7, suponga que el archivo HTML hace referencia a ocho objetos muy pequeños que se encuentran en el mismo servidor. Despreciando los tiempos de transmisión, ¿cuánto tiempo transcurre si se utiliza
+a. HTTP no persistente sin conexiones TCP en paralelo? 
+b. HTTP no persistente con el navegador configurado para 5 conexiones paralelo?
+c. HTTP persistente?
+
 ![alt text](image-1.png)
 
 ### P10
